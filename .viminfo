@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1638229183,,"wq!"
+|2,0,1638229846,,"wq!"
 :qa!
 |2,0,1638229083,,"qa!"
 :wq~
@@ -29,34 +29,52 @@
 # Registers:
 
 # File marks:
-'0  295  0  ~/deploy.i
-|4,48,295,0,1638229183,"~/deploy.i"
-'1  295  0  ~/Is.Tomcat
-|4,49,295,0,1638229130,"~/Is.Tomcat"
-'2  262  0  ~/deploy.i
-|4,50,262,0,1638229083,"~/deploy.i"
+'0  530  0  ~/maven
+|4,48,530,0,1638229846,"~/maven"
+'1  295  0  ~/deploy.i
+|4,49,295,0,1638229183,"~/deploy.i"
+'2  295  0  ~/Is.Tomcat
+|4,50,295,0,1638229130,"~/Is.Tomcat"
 '3  262  0  ~/deploy.i
 |4,51,262,0,1638229083,"~/deploy.i"
-'4  10  3  ~/deploy.py
-|4,52,10,3,1638228221,"~/deploy.py"
-'5  9  3  ~/deploy.py
-|4,53,9,3,1638228098,"~/deploy.py"
+'4  262  0  ~/deploy.i
+|4,52,262,0,1638229083,"~/deploy.i"
+'5  10  3  ~/deploy.py
+|4,53,10,3,1638228221,"~/deploy.py"
 '6  9  3  ~/deploy.py
 |4,54,9,3,1638228098,"~/deploy.py"
-'7  9  0  ~/deploy.py
-|4,55,9,0,1638227670,"~/deploy.py"
+'7  9  3  ~/deploy.py
+|4,55,9,3,1638228098,"~/deploy.py"
 '8  9  0  ~/deploy.py
 |4,56,9,0,1638227670,"~/deploy.py"
+'9  9  0  ~/deploy.py
+|4,57,9,0,1638227670,"~/deploy.py"
 
 # Jumplist (newest first):
+-'  530  0  ~/maven
+|4,39,530,0,1638229846,"~/maven"
+-'  1  0  ~/maven
+|4,39,1,0,1638229755,"~/maven"
 -'  295  0  ~/deploy.i
 |4,39,295,0,1638229183,"~/deploy.i"
+-'  295  0  ~/deploy.i
+|4,39,295,0,1638229183,"~/deploy.i"
+-'  1  0  ~/deploy.i
+|4,39,1,0,1638229174,"~/deploy.i"
 -'  1  0  ~/deploy.i
 |4,39,1,0,1638229174,"~/deploy.i"
 -'  295  0  ~/Is.Tomcat
 |4,39,295,0,1638229130,"~/Is.Tomcat"
 -'  295  0  ~/Is.Tomcat
 |4,39,295,0,1638229130,"~/Is.Tomcat"
+-'  295  0  ~/Is.Tomcat
+|4,39,295,0,1638229130,"~/Is.Tomcat"
+-'  295  0  ~/Is.Tomcat
+|4,39,295,0,1638229130,"~/Is.Tomcat"
+-'  1  0  ~/Is.Tomcat
+|4,39,1,0,1638229111,"~/Is.Tomcat"
+-'  1  0  ~/Is.Tomcat
+|4,39,1,0,1638229111,"~/Is.Tomcat"
 -'  1  0  ~/Is.Tomcat
 |4,39,1,0,1638229111,"~/Is.Tomcat"
 -'  1  0  ~/Is.Tomcat
@@ -67,6 +85,16 @@
 |4,39,262,0,1638229083,"~/deploy.i"
 -'  262  0  ~/deploy.i
 |4,39,262,0,1638229083,"~/deploy.i"
+-'  262  0  ~/deploy.i
+|4,39,262,0,1638229083,"~/deploy.i"
+-'  262  0  ~/deploy.i
+|4,39,262,0,1638229083,"~/deploy.i"
+-'  262  0  ~/deploy.i
+|4,39,262,0,1638229083,"~/deploy.i"
+-'  1  0  ~/deploy.i
+|4,39,1,0,1638229005,"~/deploy.i"
+-'  1  0  ~/deploy.i
+|4,39,1,0,1638229005,"~/deploy.i"
 -'  1  0  ~/deploy.i
 |4,39,1,0,1638229005,"~/deploy.i"
 -'  1  0  ~/deploy.i
@@ -87,6 +115,38 @@
 |4,39,10,3,1638228221,"~/deploy.py"
 -'  10  3  ~/deploy.py
 |4,39,10,3,1638228221,"~/deploy.py"
+-'  10  3  ~/deploy.py
+|4,39,10,3,1638228221,"~/deploy.py"
+-'  10  3  ~/deploy.py
+|4,39,10,3,1638228221,"~/deploy.py"
+-'  10  3  ~/deploy.py
+|4,39,10,3,1638228221,"~/deploy.py"
+-'  10  3  ~/deploy.py
+|4,39,10,3,1638228221,"~/deploy.py"
+-'  10  3  ~/deploy.py
+|4,39,10,3,1638228221,"~/deploy.py"
+-'  10  3  ~/deploy.py
+|4,39,10,3,1638228221,"~/deploy.py"
+-'  10  3  ~/deploy.py
+|4,39,10,3,1638228221,"~/deploy.py"
+-'  10  3  ~/deploy.py
+|4,39,10,3,1638228221,"~/deploy.py"
+-'  9  3  ~/deploy.py
+|4,39,9,3,1638228207,"~/deploy.py"
+-'  9  3  ~/deploy.py
+|4,39,9,3,1638228207,"~/deploy.py"
+-'  9  3  ~/deploy.py
+|4,39,9,3,1638228207,"~/deploy.py"
+-'  9  3  ~/deploy.py
+|4,39,9,3,1638228207,"~/deploy.py"
+-'  9  3  ~/deploy.py
+|4,39,9,3,1638228207,"~/deploy.py"
+-'  9  3  ~/deploy.py
+|4,39,9,3,1638228207,"~/deploy.py"
+-'  9  3  ~/deploy.py
+|4,39,9,3,1638228207,"~/deploy.py"
+-'  9  3  ~/deploy.py
+|4,39,9,3,1638228207,"~/deploy.py"
 -'  9  3  ~/deploy.py
 |4,39,9,3,1638228207,"~/deploy.py"
 -'  9  3  ~/deploy.py
@@ -119,6 +179,22 @@
 |4,39,9,3,1638228098,"~/deploy.py"
 -'  9  3  ~/deploy.py
 |4,39,9,3,1638228098,"~/deploy.py"
+-'  9  3  ~/deploy.py
+|4,39,9,3,1638228098,"~/deploy.py"
+-'  9  3  ~/deploy.py
+|4,39,9,3,1638228098,"~/deploy.py"
+-'  9  3  ~/deploy.py
+|4,39,9,3,1638228098,"~/deploy.py"
+-'  9  3  ~/deploy.py
+|4,39,9,3,1638228098,"~/deploy.py"
+-'  9  3  ~/deploy.py
+|4,39,9,3,1638228098,"~/deploy.py"
+-'  9  3  ~/deploy.py
+|4,39,9,3,1638228098,"~/deploy.py"
+-'  9  3  ~/deploy.py
+|4,39,9,3,1638228098,"~/deploy.py"
+-'  9  3  ~/deploy.py
+|4,39,9,3,1638228098,"~/deploy.py"
 -'  9  0  ~/deploy.py
 |4,39,9,0,1638227670,"~/deploy.py"
 -'  9  0  ~/deploy.py
@@ -135,30 +211,22 @@
 |4,39,9,0,1638227670,"~/deploy.py"
 -'  9  0  ~/deploy.py
 |4,39,9,0,1638227670,"~/deploy.py"
--'  1  0  ~/deploy.py
-|4,39,1,0,1638227630,"~/deploy.py"
--'  1  0  ~/deploy.py
-|4,39,1,0,1638227630,"~/deploy.py"
--'  1  0  ~/deploy.py
-|4,39,1,0,1638227630,"~/deploy.py"
--'  1  0  ~/deploy.py
-|4,39,1,0,1638227630,"~/deploy.py"
--'  1  0  ~/deploy.py
-|4,39,1,0,1638227630,"~/deploy.py"
--'  1  0  ~/deploy.py
-|4,39,1,0,1638227630,"~/deploy.py"
--'  1  0  ~/deploy.py
-|4,39,1,0,1638227630,"~/deploy.py"
--'  1  0  ~/deploy.py
-|4,39,1,0,1638227630,"~/deploy.py"
--'  1  0  ~/deploy.py
-|4,39,1,0,1638227630,"~/deploy.py"
--'  1  0  ~/deploy.py
-|4,39,1,0,1638227630,"~/deploy.py"
--'  1  0  ~/deploy.py
-|4,39,1,0,1638227630,"~/deploy.py"
--'  1  0  ~/deploy.py
-|4,39,1,0,1638227630,"~/deploy.py"
+-'  9  0  ~/deploy.py
+|4,39,9,0,1638227670,"~/deploy.py"
+-'  9  0  ~/deploy.py
+|4,39,9,0,1638227670,"~/deploy.py"
+-'  9  0  ~/deploy.py
+|4,39,9,0,1638227670,"~/deploy.py"
+-'  9  0  ~/deploy.py
+|4,39,9,0,1638227670,"~/deploy.py"
+-'  9  0  ~/deploy.py
+|4,39,9,0,1638227670,"~/deploy.py"
+-'  9  0  ~/deploy.py
+|4,39,9,0,1638227670,"~/deploy.py"
+-'  9  0  ~/deploy.py
+|4,39,9,0,1638227670,"~/deploy.py"
+-'  9  0  ~/deploy.py
+|4,39,9,0,1638227670,"~/deploy.py"
 -'  1  0  ~/deploy.py
 |4,39,1,0,1638227630,"~/deploy.py"
 -'  1  0  ~/deploy.py
@@ -185,6 +253,13 @@
 |4,39,1,0,1638227630,"~/deploy.py"
 
 # History of marks within files (newest to oldest):
+
+> ~/maven
+	*	1638229843	0
+	"	530	0
+	^	530	0
+	.	529	48
+	+	529	48
 
 > ~/deploy.i
 	*	1638229181	0
