@@ -34,3 +34,44 @@ sudo git remote -v
 sudo git push deploy.i dev
 sudo git push origin dev
 exit
+history
+exit
+ls
+sudo yum install maven
+ls
+cd ~
+clear
+ls
+cd ~
+ls
+cd maven
+clear
+ssh -i "Maven.pem" ec2-user@ec2-3-93-17-120.compute-1.amazonaws.com
+ec2-3-93-17-120.compute-1.amazonaws.com
+ssh -i "Maven.pem" ec2-user@ec2-3-93-17-120.compute-1.amazonaws.com
+sudo ssh -i "Maven.pem" ec2-user@ec2-3-93-17-120.compute-1.amazonaws.com
+exit
+cd /opt
+sudo yum install wget nano tree unzip git-all -y
+sudo yum install java-11-openjdk-devel java-1.8.0-oprnjdk-devel -y
+sudo yum install java-11-openjdk-devel java-1.8.0-openjdk-devel -y
+java --version
+sudo java --version
+git --version
+sudo wget https://dlcdn.apache.org/maven/maven-3/3.8.3/binaries/apache-maven-3.8.3-bin.zip
+sudo unzip apache-maven-3.8.3-bin.zip
+m2
+.m2
+mvn -version
+cd
+clear
+ls
+ls -l
+mvn sonar:sonar
+cd /opt/
+vi pom.xml
+: ${maven.home}/conf/settings.xml 
+cd conf
+ls
+clear
+exit
