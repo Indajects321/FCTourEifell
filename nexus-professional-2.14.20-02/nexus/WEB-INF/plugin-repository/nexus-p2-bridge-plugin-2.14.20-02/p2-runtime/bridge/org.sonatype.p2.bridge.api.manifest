@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: bamboo
+Build-Jdk: 1.6.0_30
+Export-Package: org.sonatype.p2.bridge;version="1.1.7"
+Bundle-Version: 1.1.8
+Bundle-Name: Sonatype P2 Bridge API
+Bundle-ManifestVersion: 2
+Import-Package: org.sonatype.p2.bridge.model;version="[1.1.0,1.2.0)"
+Bundle-SymbolicName: org.sonatype.p2.bridge.api
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+

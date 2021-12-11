@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: com.sonatype.nexus.plugins.nexus-centralsecure-pl
+ ugin
+Export-Package: com.sonatype.central.secure.nexus.plugin,com.sonatype.
+ central.secure.nexus.plugin.internal
+Bundle-Version: 2.14.20.02
+Bundle-ClassPath: nexus-centralsecure-plugin-2.14.20-02.jar
+Require-Bundle: org.sonatype.nexus.plugin-api;resolution:=optional,com
+ .sonatype.nexus.plugins.nexuspro-support-plugin;bundle-version=2.14.2
+ 0,org.sonatype.nexus.plugins.nexus-kazuki-plugin;bundle-version=2.14.
+ 20,com.sonatype.nexus.plugins.nexus-ssl-plugin;bundle-version=2.14.20
+ ,org.sonatype.nexus.plugins.nexus-capabilities-plugin;bundle-version=
+ 2.14.20
+Bundle-ManifestVersion: 2
+

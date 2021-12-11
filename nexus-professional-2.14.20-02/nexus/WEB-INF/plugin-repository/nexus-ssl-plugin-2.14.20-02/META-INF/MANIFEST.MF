@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: com.sonatype.nexus.plugins.nexus-ssl-plugin
+Export-Package: com.sonatype.nexus.ssl.model,com.sonatype.nexus.ssl.pl
+ ugin,com.sonatype.nexus.ssl.plugin.internal,com.sonatype.nexus.ssl.pl
+ ugin.internal.keystore,com.sonatype.nexus.ssl.plugin.internal.reposit
+ ory,com.sonatype.nexus.ssl.plugin.internal.rest,com.sonatype.nexus.ss
+ l.plugin.internal.security,com.sonatype.nexus.ssl.plugin.internal.smt
+ p,com.sonatype.nexus.ssl.plugin.spi
+Bundle-Version: 2.14.20.02
+Bundle-ClassPath: nexus-ssl-plugin-2.14.20-02.jar,dependencies/nexus-s
+ sl-model-2.14.20-02.jar
+Require-Bundle: org.sonatype.nexus.plugin-api;resolution:=optional,com
+ .sonatype.nexus.plugins.nexuspro-support-plugin;bundle-version=2.14.2
+ 0,org.sonatype.nexus.plugins.nexus-kazuki-plugin;bundle-version=2.14.
+ 20,org.sonatype.nexus.plugins.nexus-capabilities-plugin;bundle-versio
+ n=2.14.20,org.sonatype.nexus.plugins.nexus-siesta-plugin;bundle-versi
+ on=2.14.20,org.sonatype.nexus.plugins.nexus-ui-extjs3-plugin;bundle-v
+ ersion=2.14.20,org.sonatype.nexus.plugins.nexus-crypto-plugin;bundle-
+ version=2.14.20
+Bundle-ManifestVersion: 2
+

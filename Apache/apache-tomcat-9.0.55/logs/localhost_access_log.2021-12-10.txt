@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - tomcat [10/Dec/2021:14:06:05 -0500] "GET /manager/status?org.apache.catalina.filters.CSRF_NONCE=96D30E0E51010CC661BD9D040C5A3FD3 HTTP/1.1" 200 4816
+0:0:0:0:0:0:0:1 - - [10/Dec/2021:14:06:05 -0500] "GET /manager/css/manager.css HTTP/1.1" 200 2946
+0:0:0:0:0:0:0:1 - - [10/Dec/2021:14:06:06 -0500] "GET /manager/images/asf-logo.svg HTTP/1.1" 200 20712
+0:0:0:0:0:0:0:1 - - [10/Dec/2021:14:06:06 -0500] "GET /manager/images/tomcat.svg HTTP/1.1" 200 68761
+0:0:0:0:0:0:0:1 - - [10/Dec/2021:15:51:22 -0500] "GET / HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [10/Dec/2021:15:51:33 -0500] "GET /manager HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [10/Dec/2021:15:51:37 -0500] "GET /manager/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - tomcat [10/Dec/2021:15:51:38 -0500] "GET /manager/html HTTP/1.1" 200 12790
+0:0:0:0:0:0:0:1 - - [10/Dec/2021:16:09:10 -0500] "GET / HTTP/1.1" 404 682

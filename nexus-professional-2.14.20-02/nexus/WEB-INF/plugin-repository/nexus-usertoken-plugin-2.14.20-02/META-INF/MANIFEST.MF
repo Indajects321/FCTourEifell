@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: com.sonatype.nexus.plugins.nexus-usertoken-plugin
+Export-Package: com.sonatype.nexus.usertoken.plugin.rest.model,com.son
+ atype.nexus.usertoken.plugin.rest.model.exportimport,org.w3._2001.xml
+ schema,nl.bitwalker.useragentutils,com.sonatype.nexus.usertoken.plugi
+ n,com.sonatype.nexus.usertoken.plugin.encoding,com.sonatype.nexus.use
+ rtoken.plugin.internal,com.sonatype.nexus.usertoken.plugin.realm,com.
+ sonatype.nexus.usertoken.plugin.rest,com.sonatype.nexus.usertoken.plu
+ gin.store,com.sonatype.nexus.usertoken.plugin.store.db
+Bundle-Version: 2.14.20.02
+Bundle-ClassPath: nexus-usertoken-plugin-2.14.20-02.jar,dependencies/U
+ serAgentUtils-1.6.jar,dependencies/nexus-usertoken-model-2.14.20-02.j
+ ar
+Require-Bundle: org.sonatype.nexus.plugin-api;resolution:=optional,org
+ .sonatype.nexus.plugins.nexus-wonderland-plugin;bundle-version=2.14.2
+ 0,org.sonatype.nexus.plugins.nexus-content-plugin;bundle-version=2.14
+ .20,com.sonatype.nexus.plugins.nexuspro-support-plugin;bundle-version
+ =2.14.20,org.sonatype.nexus.plugins.nexus-kazuki-plugin;bundle-versio
+ n=2.14.20,com.sonatype.nexus.plugins.nexus-m2-settings-template-plugi
+ n;bundle-version=2.14.20,org.sonatype.nexus.plugins.nexus-h2-plugin;b
+ undle-version=2.14.20,org.sonatype.nexus.plugins.nexus-capabilities-p
+ lugin;bundle-version=2.14.20,org.sonatype.nexus.plugins.nexus-siesta-
+ plugin;bundle-version=2.14.20,org.sonatype.nexus.plugins.nexus-ui-ext
+ js3-plugin;bundle-version=2.14.20,org.sonatype.nexus.plugins.nexus-cr
+ ypto-plugin;bundle-version=2.14.20
+Bundle-ManifestVersion: 2
+

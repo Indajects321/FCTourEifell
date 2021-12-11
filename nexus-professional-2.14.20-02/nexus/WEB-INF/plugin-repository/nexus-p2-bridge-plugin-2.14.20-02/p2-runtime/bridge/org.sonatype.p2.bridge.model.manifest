@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Export-Package: org.sonatype.p2.bridge.model;version="1.1.7"
+Bundle-ActivationPolicy: lazy
+Implementation-Title: P2 Bridge :: Model
+Implementation-Version: 1.1.8
+Specification-Vendor: Sonatype
+Built-By: bamboo
+Bundle-Name: Sonatype P2 Bridge Model
+Created-By: Apache Maven 3.0.5
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Bundle-Vendor: Sonatype, Inc.
+Implementation-Vendor: Sonatype
+Implementation-Vendor-Id: org.sonatype.p2.bridge
+Bundle-Version: 1.1.7
+Build-Jdk: 1.6.0_30
+Bundle-ManifestVersion: 2
+Specification-Title: P2 Bridge :: Model
+Bundle-SymbolicName: org.sonatype.p2.bridge.model
+Specification-Version: 1.1.8
+Archiver-Version: Plexus Archiver
+

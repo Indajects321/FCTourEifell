@@ -1,0 +1,56 @@
+0:0:0:0:0:0:0:1 - - [09/Dec/2021:16:23:39 -0500] "-" 400 2181
+0:0:0:0:0:0:0:1 - - [09/Dec/2021:16:23:39 -0500] "-" 400 2171
+0:0:0:0:0:0:0:1 - - [09/Dec/2021:16:23:39 -0500] "-" 400 2205
+0:0:0:0:0:0:0:1 - - [09/Dec/2021:16:23:39 -0500] "-" 400 2187
+0:0:0:0:0:0:0:1 - - [09/Dec/2021:16:37:35 -0500] "GET / HTTP/1.1" 200 11354
+0:0:0:0:0:0:0:1 - - [09/Dec/2021:16:37:35 -0500] "GET /tomcat.svg HTTP/1.1" 200 68761
+0:0:0:0:0:0:0:1 - - [09/Dec/2021:16:37:35 -0500] "GET /tomcat.css HTTP/1.1" 200 5895
+0:0:0:0:0:0:0:1 - - [09/Dec/2021:16:37:35 -0500] "GET /bg-nav.png HTTP/1.1" 200 1401
+0:0:0:0:0:0:0:1 - - [09/Dec/2021:16:37:36 -0500] "GET /bg-upper.png HTTP/1.1" 200 3103
+0:0:0:0:0:0:0:1 - - [09/Dec/2021:16:37:36 -0500] "GET /asf-logo-wide.svg HTTP/1.1" 200 27530
+0:0:0:0:0:0:0:1 - - [09/Dec/2021:16:37:36 -0500] "GET /bg-middle.png HTTP/1.1" 200 1918
+0:0:0:0:0:0:0:1 - - [09/Dec/2021:16:37:36 -0500] "GET /bg-button.png HTTP/1.1" 200 713
+0:0:0:0:0:0:0:1 - - [09/Dec/2021:16:37:46 -0500] "GET /manager/status HTTP/1.1" 401 2562
+0:0:0:0:0:0:0:1 - - [09/Dec/2021:16:37:54 -0500] "GET /manager/status HTTP/1.1" 401 2562
+0:0:0:0:0:0:0:1 - - [09/Dec/2021:16:37:56 -0500] "GET /manager/status HTTP/1.1" 401 2562
+0:0:0:0:0:0:0:1 - - [09/Dec/2021:16:37:59 -0500] "GET /manager/status HTTP/1.1" 401 2562
+0:0:0:0:0:0:0:1 - - [09/Dec/2021:16:43:25 -0500] "GET /manager/status HTTP/1.1" 401 2562
+0:0:0:0:0:0:0:1 - - [09/Dec/2021:16:44:48 -0500] "GET /manager/status HTTP/1.1" 401 2562
+0:0:0:0:0:0:0:1 - - [09/Dec/2021:16:45:10 -0500] "GET /manager/status HTTP/1.1" 401 2562
+0:0:0:0:0:0:0:1 - - [09/Dec/2021:16:47:45 -0500] "GET /manager/status HTTP/1.1" 401 2562
+0:0:0:0:0:0:0:1 - - [09/Dec/2021:17:18:27 -0500] "GET / HTTP/1.1" 200 11354
+0:0:0:0:0:0:0:1 - - [09/Dec/2021:17:18:33 -0500] "GET /docs/setup.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [09/Dec/2021:17:18:33 -0500] "GET /docs/images/docs-stylesheet.css HTTP/1.1" 200 6082
+0:0:0:0:0:0:0:1 - - [09/Dec/2021:17:18:33 -0500] "GET /docs/images/asf-logo.svg HTTP/1.1" 200 20712
+0:0:0:0:0:0:0:1 - - [09/Dec/2021:17:18:33 -0500] "GET /docs/images/tomcat.png HTTP/1.1" 200 5103
+0:0:0:0:0:0:0:1 - - [09/Dec/2021:17:18:33 -0500] "GET /docs/images/fonts/fonts.css HTTP/1.1" 200 1996
+0:0:0:0:0:0:0:1 - - [09/Dec/2021:17:18:33 -0500] "GET /docs/images/fonts/OpenSans700.woff HTTP/1.1" 200 22748
+0:0:0:0:0:0:0:1 - - [09/Dec/2021:17:18:33 -0500] "GET /docs/images/fonts/OpenSans600.woff HTTP/1.1" 200 22604
+0:0:0:0:0:0:0:1 - - [09/Dec/2021:17:18:33 -0500] "GET /docs/images/fonts/OpenSans400.woff HTTP/1.1" 200 21956
+0:0:0:0:0:0:0:1 - - [09/Dec/2021:17:25:35 -0500] "GET /manager/status HTTP/1.1" 401 2562
+0:0:0:0:0:0:0:1 - - [09/Dec/2021:17:25:46 -0500] "GET /manager/status HTTP/1.1" 401 2562
+0:0:0:0:0:0:0:1 - - [09/Dec/2021:17:32:59 -0500] "GET /manager/status HTTP/1.1" 401 2562
+0:0:0:0:0:0:0:1 - - [09/Dec/2021:17:33:04 -0500] "GET /manager/status HTTP/1.1" 401 2562
+0:0:0:0:0:0:0:1 - - [09/Dec/2021:17:33:06 -0500] "GET /manager/status HTTP/1.1" 401 2562
+0:0:0:0:0:0:0:1 - - [09/Dec/2021:17:33:10 -0500] "GET /manager/status HTTP/1.1" 401 2562
+0:0:0:0:0:0:0:1 - - [09/Dec/2021:17:43:40 -0500] "GET / HTTP/1.1" 200 11354
+0:0:0:0:0:0:0:1 - - [09/Dec/2021:17:43:44 -0500] "GET /manager/html HTTP/1.1" 401 2562
+0:0:0:0:0:0:0:1 - tomcat [09/Dec/2021:17:43:52 -0500] "GET /manager/html HTTP/1.1" 200 17767
+0:0:0:0:0:0:0:1 - - [09/Dec/2021:17:43:52 -0500] "GET /manager/css/manager.css HTTP/1.1" 200 2946
+0:0:0:0:0:0:0:1 - - [09/Dec/2021:17:43:52 -0500] "GET /manager/images/asf-logo.svg HTTP/1.1" 200 20712
+0:0:0:0:0:0:0:1 - - [09/Dec/2021:17:43:52 -0500] "GET /manager/images/tomcat.svg HTTP/1.1" 200 68761
+0:0:0:0:0:0:0:1 - tomcat [09/Dec/2021:17:53:06 -0500] "GET /manager/html/list;jsessionid=AC9CA053DB9B547558BACEE5756C2052?org.apache.catalina.filters.CSRF_NONCE=2992E5D00DA847F0C63D06E62C02D0BF HTTP/1.1" 200 16396
+0:0:0:0:0:0:0:1 - tomcat [09/Dec/2021:17:53:15 -0500] "GET /manager/status?org.apache.catalina.filters.CSRF_NONCE=DAE3C8CBA04E2F8EB480964F0BAE0F2C HTTP/1.1" 200 4828
+0:0:0:0:0:0:0:1 - tomcat [09/Dec/2021:17:53:55 -0500] "GET /manager/html/list HTTP/1.1" 200 16396
+0:0:0:0:0:0:0:1 - tomcat [09/Dec/2021:17:54:01 -0500] "POST /manager/html/stop?path=/&org.apache.catalina.filters.CSRF_NONCE=EE0755F5D14CF81D8D3F833D3B697B4B HTTP/1.1" 200 15870
+0:0:0:0:0:0:0:1 - tomcat [09/Dec/2021:17:54:02 -0500] "POST /manager/html/start?path=/&org.apache.catalina.filters.CSRF_NONCE=6CA77E284BFA8FDEA7D120CCD6AB1EB2 HTTP/1.1" 200 16449
+0:0:0:0:0:0:0:1 - tomcat [09/Dec/2021:17:54:04 -0500] "POST /manager/html/undeploy?path=/&org.apache.catalina.filters.CSRF_NONCE=2D0016E8A85803C445DBBF1D908D089D HTTP/1.1" 200 14666
+0:0:0:0:0:0:0:1 - tomcat [09/Dec/2021:17:54:06 -0500] "POST /manager/html/undeploy?path=/docs&org.apache.catalina.filters.CSRF_NONCE=3A3D5DF748ED944485FC21238DD912BE HTTP/1.1" 200 12858
+0:0:0:0:0:0:0:1 - - [09/Dec/2021:17:54:23 -0500] "GET /docs/manager-howto.html HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - tomcat [09/Dec/2021:17:54:29 -0500] "POST /manager/html/undeploy?path=/docs&org.apache.catalina.filters.CSRF_NONCE=3A3D5DF748ED944485FC21238DD912BE HTTP/1.1" 200 12849
+0:0:0:0:0:0:0:1 - tomcat [09/Dec/2021:17:54:29 -0500] "GET /manager/css/manager.css HTTP/1.1" 200 2946
+0:0:0:0:0:0:0:1 - tomcat [09/Dec/2021:17:54:29 -0500] "GET /manager/images/asf-logo.svg HTTP/1.1" 200 20712
+0:0:0:0:0:0:0:1 - tomcat [09/Dec/2021:17:54:29 -0500] "GET /manager/images/tomcat.svg HTTP/1.1" 200 68761
+0:0:0:0:0:0:0:1 - tomcat [09/Dec/2021:17:54:36 -0500] "GET /manager/html/list?org.apache.catalina.filters.CSRF_NONCE=14B0C94294C28C3A7E321877EB0564B0 HTTP/1.1" 200 12804
+0:0:0:0:0:0:0:1 - - [09/Dec/2021:17:54:40 -0500] "GET /docs/html-manager-howto.html HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - tomcat [09/Dec/2021:19:14:08 -0500] "GET /manager/status?org.apache.catalina.filters.CSRF_NONCE=96D30E0E51010CC661BD9D040C5A3FD3 HTTP/1.1" 200 4829

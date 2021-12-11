@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: com.sonatype.nexus.plugins.nexus-licensing-plugin
+Export-Package: com.sonatype.nexus.licensing.api,com.sonatype.nexus.li
+ censing.api.access,com.sonatype.nexus.licensing.api.access.h2,com.son
+ atype.nexus.licensing.api.dto,com.sonatype.nexus.licensing.internal,c
+ om.sonatype.nexus.licensing.plugin
+Bundle-Version: 2.14.20.02
+Bundle-ClassPath: nexus-licensing-plugin-2.14.20-02.jar
+Require-Bundle: org.sonatype.nexus.plugin-api;resolution:=optional,org
+ .sonatype.nexus.plugins.nexus-restlet1x-plugin;bundle-version=2.14.20
+ ,org.sonatype.nexus.plugins.nexus-webresources-plugin;bundle-version=
+ 2.14.20,org.sonatype.nexus.plugins.nexus-h2-plugin;bundle-version=2.1
+ 4.20,org.sonatype.nexus.plugins.nexus-ui-extjs3-plugin;bundle-version
+ =2.14.20
+Bundle-ManifestVersion: 2
+

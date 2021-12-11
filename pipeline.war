@@ -1,0 +1,33 @@
+//Groovy script
+Jenkinsfile
+Groovy scripts
+
+node=server=
+master-
+	slave1/agent1/node1 =
+	slave2/agent2/node2 
+	slave3/agent3/node3
+
+ node {
+  stage('1Clone') {
+	git credentialsId: 'Indajects321', url: 'https://github.com/Indajects321/FCTourEifell.git'
+
+
+ }
+ stage('2mavenBuild') {
+
+ )
+ stage('3CodeQuality') {
+
+ }
+ stage( '4uploadArtifacts') {
+ 
+ } 
+ stage('DeployTomcat') {
+
+ }
+ stage('EmailNotification') {
+
+ }
+}
+
