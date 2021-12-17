@@ -1,0 +1,45 @@
+//scripted pipeline
+
+
+node{
+	stage('1.Initiation') {
+	sh "echo Start of td deployment"
+	}
+	stage('2.CloneCode') {
+	sh "gitclone"
+	}
+	stage('') {
+	
+
+
+	}
+	stage('') {
+			
+	
+
+	}
+	stage('') {
+	
+
+
+	}
+	stage('') {
+	
+
+
+	}
+	stage('') {
+	
+
+	}
+	stage('') {
+	
+
+	}
+	stage('') {
+
+
+	}
+
+
+echo "end script"

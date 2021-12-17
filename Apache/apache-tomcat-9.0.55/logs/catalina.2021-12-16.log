@@ -1,0 +1,38 @@
+16-Dec-2021 19:25:34.730 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.55
+16-Dec-2021 19:25:34.745 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 10 2021 08:26:45 UTC
+16-Dec-2021 19:25:34.746 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.55.0
+16-Dec-2021 19:25:34.746 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+16-Dec-2021 19:25:34.747 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            5.4.139-16311-g330b3df0010b
+16-Dec-2021 19:25:34.747 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+16-Dec-2021 19:25:34.748 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-11-openjdk-arm64
+16-Dec-2021 19:25:34.749 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.12+7-post-Debian-2deb10u1
+16-Dec-2021 19:25:34.749 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Debian
+16-Dec-2021 19:25:34.750 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/beaverton/Apache/apache-tomcat-9.0.55
+16-Dec-2021 19:25:34.751 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/beaverton/Apache/apache-tomcat-9.0.55
+16-Dec-2021 19:25:34.885 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+16-Dec-2021 19:25:34.886 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+16-Dec-2021 19:25:34.888 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+16-Dec-2021 19:25:34.888 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+16-Dec-2021 19:25:34.897 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+16-Dec-2021 19:25:34.903 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/beaverton/Apache/apache-tomcat-9.0.55/conf/logging.properties
+16-Dec-2021 19:25:34.903 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+16-Dec-2021 19:25:34.903 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+16-Dec-2021 19:25:34.904 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+16-Dec-2021 19:25:34.904 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+16-Dec-2021 19:25:34.905 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+16-Dec-2021 19:25:34.906 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/beaverton/Apache/apache-tomcat-9.0.55
+16-Dec-2021 19:25:34.906 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/beaverton/Apache/apache-tomcat-9.0.55
+16-Dec-2021 19:25:34.907 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/beaverton/Apache/apache-tomcat-9.0.55/temp
+16-Dec-2021 19:25:34.915 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib:/usr/lib/aarch64-linux-gnu/jni:/lib/aarch64-linux-gnu:/usr/lib/aarch64-linux-gnu:/usr/lib/jni:/lib:/usr/lib]
+16-Dec-2021 19:25:38.060 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+16-Dec-2021 19:25:38.595 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [5613] milliseconds
+16-Dec-2021 19:25:39.180 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+16-Dec-2021 19:25:39.182 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.55]
+16-Dec-2021 19:25:39.227 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/beaverton/Apache/apache-tomcat-9.0.55/webapps/examples]
+16-Dec-2021 19:25:44.152 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/beaverton/Apache/apache-tomcat-9.0.55/webapps/examples] has finished in [4,924] ms
+16-Dec-2021 19:25:44.154 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/beaverton/Apache/apache-tomcat-9.0.55/webapps/host-manager]
+16-Dec-2021 19:25:44.332 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/beaverton/Apache/apache-tomcat-9.0.55/webapps/host-manager] has finished in [177] ms
+16-Dec-2021 19:25:44.334 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/beaverton/Apache/apache-tomcat-9.0.55/webapps/manager]
+16-Dec-2021 19:25:44.583 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/beaverton/Apache/apache-tomcat-9.0.55/webapps/manager] has finished in [249] ms
+16-Dec-2021 19:25:44.610 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+16-Dec-2021 19:25:44.709 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [6112] milliseconds
