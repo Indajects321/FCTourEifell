@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>way</groupId>
+  <artifactId>to-frontend</artifactId>
+  <versioning>
+    <release>go</release>
+    <versions>
+      <version>go</version>
+    </versions>
+    <lastUpdated>20220202025648</lastUpdated>
+  </versioning>
+</metadata>
