@@ -1,0 +1,6 @@
+/home/docker/spring-boot-docker/src/main/java/com/mt/springmongo/DemoApp.java
+/home/docker/spring-boot-docker/src/main/java/com/mt/springmongo/User.java
+/home/docker/spring-boot-docker/src/main/java/com/mt/springmongo/UserResource.java
+/home/docker/spring-boot-docker/src/main/java/com/mt/springmongo/UserRepository.java
+/home/docker/spring-boot-docker/src/main/java/com/mt/springmongo/UserController.java
+/home/docker/spring-boot-docker/src/main/java/com/mt/springmongo/WebConfig.java
